@@ -35,8 +35,9 @@ El script genera un gráfico mostrando:
 
 ## Interpretación
 - Identifica la temperatura crítica de transición
-- Analiza la dependencia con el acople entre el Higgs y materia oscura
+- Analiza la dependencia con el acople entre el Higgs y la materia oscura
 - Estudia efectos de la masa de la materia oscura en la dinámica de la transición
+- Considerar la posibilidad de obtener una transición de fase de primer orden
 
 ## Archivos
 - montecarlo_1D.ipynb: Notebook principal con la simulación
