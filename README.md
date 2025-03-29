@@ -40,10 +40,10 @@ El script genera un gráfico mostrando:
 
 ## Archivos
 - montecarlo_1D.ipynb: Notebook principal con la simulación
-- lambda_0.2_mDM_150: Gráfica para $\lambda_{\phi \chi}=0.2$ y $m_{DM]=150$ GeV
-- lambda_0.5_mDM_100: Gráfica para $\lambda_{\phi \chi}=0.5$ y $m_{DM]=100$ GeV
-- lambda_0.5_mDM_200: Gráfica para $\lambda_{\phi \chi}=0.5$ y $m_{DM]=200$ GeV
-- lambda_0.5_mDM_80: Gráfica para $\lambda_{\phi \chi}=0.5$ y $m_{DM]=80$ GeV
+- lambda_0.2_mDM_150: Gráfica para $\lambda_{\phi \chi}=0.2$ y $m_{DM}=150$ GeV
+- lambda_0.5_mDM_100: Gráfica para $\lambda_{\phi \chi}=0.5$ y $m_{DM}=100$ GeV
+- lambda_0.5_mDM_200: Gráfica para $\lambda_{\phi \chi}=0.5$ y $m_{DM}=200$ GeV
+- lambda_0.5_mDM_80: Gráfica para $\lambda_{\phi \chi}=0.5$ y $m_{DM}=80$ GeV
 
 
 ## Contacto
