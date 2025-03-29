@@ -3,6 +3,11 @@
 ## Descripción
 Simulación Monte Carlo que estudia la transición de fase electrodébil incluyendo un campo de materia oscura acoplado al Higgs.
 
+## Utilidad del proyecto
+
+El proyecto cuenta con varias aplicaciones. En primer lugar, permite investigar la fenomenología de posibles candidatos a materia oscura mediante el estudio de cómo un campo escalar adicional podría acoplarse al bosón de Higgs, analizando los efectos observables durante la transición de fase electroweak. Desde la perspectiva de física más allá del Modelo Estándar, proporciona un marco teórico-práctico para explorar extensiones del modelo que incluyan acoplamientos no convencionales entre el Higgs y la materia oscura. Técnicamente, implementa métodos numéricos avanzados como el algoritmo Metropolis-Hastings aplicado a teoría cuántica de campos, sentando las bases para simulaciones más complejas
+
+
 ## Requisitos
 - Python 3.x
 - Bibliotecas: NumPy, Matplotlib
@@ -12,7 +17,7 @@ Simulación Monte Carlo que estudia la transición de fase electrodébil incluye
 - VEV del Higgs: 246.22 GeV
 - Masa materia oscura: 80 GeV
 - Constantes de acoplamiento:
-- λφ (Higgs): calculada
+- $\lambda_\phi$ (Higgs): calculada
 - λφχ (acoplamiento): 0.5
 - λχ (materia oscura): 0.1
 
